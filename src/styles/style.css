@@ -2,3 +2,6 @@
 @import "./base/typography.css";
 @import "./base/variables.css";
 @import "./base/layout.css";
+
+/* components */
+@import "./components/navbar.css";
