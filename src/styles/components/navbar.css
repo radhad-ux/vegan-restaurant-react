@@ -47,7 +47,7 @@
   text-align: center;
   text-decoration: none;
   color: #fff;
-  margin: 30px;
+  margin: var(--space-big);
   font-family: "Raleway", sans-serif;
 }
 
@@ -61,7 +61,7 @@
     font-weight: 300;
     font-size: 16px;
     letter-spacing: 1.5px;
-    margin: 20px;
+    margin: var(--space-medium);
   }
 }
 
