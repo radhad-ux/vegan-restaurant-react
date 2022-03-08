@@ -4,6 +4,7 @@
 @import "./base/layout.css";
 
 /* components */
+@import "./components/footer.css";
 @import "./components/homemenucard.css";
 @import "./components/navbar.css";
 

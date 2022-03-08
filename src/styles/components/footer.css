@@ -1,0 +1,35 @@
+.footer_links {
+  padding: 10px;
+  background-color: var(--color-primary);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.social_media {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.social_media a {
+  display: inline-block;
+  margin-right: 15px;
+}
+.footer_image {
+  width: 30px;
+  height: 30px;
+}
+
+.copy_right {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.copy_right p {
+  color: #7ae05b;
+  font-size: 14px;
+  font-family: "Satisfy", sans-serif;
+}
