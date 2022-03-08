@@ -1,0 +1,13 @@
+:root {
+  --color-primary: var(--swatch-blue);
+  --color-secondary: var(--swatch-yellow);
+  --color-bg: var(--swatch-blue-light);
+}
+
+:root {
+  --space-small: 8px;
+  --space-medium: 16px;
+  --space-big: 24px;
+  --space-bigger: 36px;
+  --space-ultra: 48px;
+}
