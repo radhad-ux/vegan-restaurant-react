@@ -14,7 +14,7 @@ export default function Home() {
         <img
           className="hero_img"
           src={Hero}
-          alt="vegan food image with blue background "
+          alt="vegan food with blue background "
         />
         <div className="hero_content">
           <h1>The Green Alley</h1>
