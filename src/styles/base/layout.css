@@ -13,3 +13,7 @@ body {
 .App {
   /* font-family: "Laila", sans-serif; */
 }
+
+a {
+  text-decoration: none;
+}
