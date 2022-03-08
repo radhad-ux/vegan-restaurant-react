@@ -4,4 +4,8 @@
 @import "./base/layout.css";
 
 /* components */
+@import "./components/homemenucard.css";
 @import "./components/navbar.css";
+
+/* pages */
+@import "./pages/home.css";

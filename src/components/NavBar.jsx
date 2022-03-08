@@ -13,11 +13,11 @@ export default function NavBar() {
       </div>
       <div className="navbar_right">
         <Link to="/">Home</Link>
-        <Link to="/dishes">Dishes</Link>
-        <Link to="/desserts">Deserts</Link>
+        <Link to="/Dishes">Dishes</Link>
+        <Link to="/Desserts">Deserts</Link>
 
-        <Link to="/drinks">Drinks</Link>
-        <Link to="/contact">Contact</Link>
+        <Link to="/Drinks">Drinks</Link>
+        <Link to="/Contact">Contact</Link>
       </div>
     </nav>
   );
