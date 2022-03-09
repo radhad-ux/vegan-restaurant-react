@@ -1,0 +1,14 @@
+.ingredients_list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+.ingredients_list h2 {
+  color: var(--color-primary);
+  text-align: center;
+  font-family: "laila", sans-serif;
+  font-weight: 700;
+  margin-bottom: 0;
+}

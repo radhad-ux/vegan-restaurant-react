@@ -1,20 +1,20 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "title": "Dishes",
     "description": "Rich and robust,  our plant-based dishes are hearty, “tasty” and with full depth of flavor.",
-    "image": "homedish.jpg"
+    "image": "ratatouille.png"
+  },
+  {
+    "id": 1,
+    "title": "Deserts",
+    "description": "A seductive tasting sensation created with passion by our skilled Artisans. We have a variety of deserts including Waffles,Brownies, Pasteries, Sundaes and Custard.",
+    "image": "taste.png"
   },
   {
     "id": 2,
-    "title": "Deserts",
-    "description": "A seductive tasting sensation created with passion by our skilled Artisans. We have a variety of deserts including Waffles,Brownies, Pasteries, Sundaes and Custard.",
-    "image": "homedesert.jpg"
-  },
-  {
-    "id": 3,
     "title": "Drinks",
     "description": "We have a variety of drinks with fresh ingredients like seasonal fruit, vegetables, herbs and spices to create healthier refreshing drinks for all seasons. Introduced Sangria a summer classic containing the perfect combination of wine, fruit and ice for a refreshing summer drink.",
-    "image": "homedrink.jpg"
+    "image": "fruit.png"
   }
 ]

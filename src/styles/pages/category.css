@@ -1,0 +1,44 @@
+.category_page {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--color-bg);
+}
+
+.category_header {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin: 130px 100px 10px 100px;
+}
+
+.category_header h2 {
+  color: #fff;
+  text-align: center;
+  width: 30%;
+  border-radius: 20px;
+
+  font-family: "laila", sans-serif;
+  font-weight: 700;
+  margin-bottom: 30px;
+  background-color: var(--color-primary);
+}
+
+.category_header p {
+  color: #03384b;
+
+  font-family: "Satisfy", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.1rem;
+  width: 70%;
+  text-align: left;
+  text-align: justify;
+}
+
+.category_list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}

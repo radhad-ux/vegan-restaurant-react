@@ -1,0 +1,260 @@
+[
+  {
+    "id": 0,
+    "title": "Dishes",
+    "image": "roasted cauliflower.png",
+    "description": "Whether you are simply trying to eat less meat, cook more plant-based meals, consume more vibrant healthy produce, or subscribe to the vegan lifestyle- my hope is that these Vegan Recipes help inspire you on your own health journey. Always remember, vegan food never has to be boring or bland! And remember, if it tastes delicious, no one will ever miss the meat! I promise! 😉",
+    "products": [
+      {
+        "id": 0,
+        "name": "Spaghetti and Beet balls",
+        "shortDescription": "Beets, black beans, walnuts and basil make these plant-based meatballs scrumptious and so satisfying. ",
+        "longDescription": "Say hello to the most flavorful Vegan Spaghetti and Beetballs!  A beautiful twist on the comforting familiar classic.  Beets, black beans, walnuts and basil make these plant-based meatballs scrumptious and so satisfying.  Top with an easy rustic tomato sauce for a meal the whole family will love! Sprinkle with Vegan Cheesy Sprinkle!",
+        "image": "spaghetti.png",
+        "ingredients": [
+          "Spaghetti 🍝",
+          "Beets 🌰",
+          "Walnuts 🧅",
+          "Basil 🍃",
+          "Brocolli 🥦"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Tikka Masala",
+        "shortDescription": "This veggie-loaded Vegan Tikka Masala can be made tofu, chickpeas or paneer.",
+        "longDescription": "This veggie-loaded Vegan Tikka Masala can be made tofu, chickpeas, potato or paneer, in under 25 minutes! An easy, vegan, keto-friendly weeknight meal!",
+        "image": "tikka-masala.png",
+        "ingredients": [
+          "Potato 🥔",
+          "Paneer 🍞",
+          "Tofu 🥦",
+          "Coriander 🍀",
+          "Tikka masala 🧉"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Millet Bowl",
+        "shortDescription": "Coconut millet bowl with Berbere-Spiced Kabocha Squash, chickpeas, shallots, and spinach",
+        "longDescription": "Coconut millet bowl with Berbere-Spiced Kabocha Squash, chickpeas, chillies, shallots, and spinach drizzled with coconut lime mint sauce.  A vegan, plant-based meal, full of vibrant flavor and spice.",
+        "image": "millet-bowl.png",
+        "ingredients": [
+          "Millet 🥘",
+          "Spinach 🌿",
+          "Cocunut 🥥",
+          "Chillies 🌶️",
+          "Shallots 🧅"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Vegan Vegetable Lo Mein",
+        "shortDescription": "Loaded up with healthy veggies, this VEGAN, plant-based dinner recipe is fast and easy",
+        "longDescription": "This Veggie Lo Mein can be on the table in under 20 minutes! Loaded up with healthy veggies, this VEGAN, plant-based dinner recipe is fast and easy, perfect for busy weeknights!",
+        "image": "noodles.png",
+        "ingredients": [
+          "Noodles 🍜",
+          "Mushroom 🍄",
+          "Paneer 🍞",
+          "Greenpeas 🥒 ",
+          "Capscicum 🫑"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Vegan Ramen",
+        "shortDescription": "Vegan Ramen with Miso Shiitake Broth an umamilicious bowl of warming",
+        "longDescription": "Vegan Ramen with Miso Shiitake Broth an umamilicious bowl of warming, soothing ramen with shiitake mushrooms, crispy tofu, Bok Choy and scallions. Plus a simple tip to making this “creamy”",
+        "image": "vegan-ramen.png",
+        "ingredients": [
+          "Ramen 🍜",
+          "Mushroom 🍄",
+          "Tofu 🥦",
+          "Bok Choy 🌱🪴",
+          "Scallions 🪴"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Peanut Tofu",
+        "shortDescription": "Bali Bowls with Peanut Tofu, black rice, roasted sweet potatoes and shredded cabbage",
+        "longDescription": "Bali Bowls with Peanut Tofu, black rice, roasted sweet potatoes, shredded cabbage, radish and snow peas and the most delicious Balinese-style Peanut Sauce! A tasty plant-based vegan dinner!",
+        "image": "peanut-tofu.png",
+        "ingredients": [
+          "Black rice 🍚",
+          "Sweet potatoes 🥔",
+          "tofu 🥦",
+          "Cabbage 🥬",
+          "Peanut sauce 🥜"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Desserts",
+    "image": "breadcake.png",
+    "description": "Whether you're craving an indulgent cake, a refreshing sorbet, or anything in between, these vegan desserts are guaranteed to satisfy your sweet tooth.These vegan desserts are here to prove that you don’t need butter, eggs, or cream to create something that’s sweet, rich, and decadent. ",
+    "products": [
+      {
+        "id": 0,
+        "name": "Apple Oatmeal Cookies",
+        "shortDescription": "It’s soft, spiced with cinnamon, and studded with fruit and nuts. ",
+        "longDescription": "Imagine the best oatmeal cookie you can think of. It’s soft, spiced with cinnamon, and studded with fruit and nuts. These vegan apple cookies check every box! Trust me, you want to make them ASAP.",
+        "image": "apple-oatmeal.png",
+        "ingredients": [
+          "Apple 🍎",
+          "Oats 🥣",
+          "Nuts 🥜",
+          "Fruits 🍑",
+          "Cinnamon 🍼"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Vegan Date Brownies",
+        "shortDescription": "Medjool dates and cashew butter give them a crave-worthy fudgy texture,",
+        "longDescription": "These vegan brownies will give any regular brownie recipe a run for its money. Medjool dates and cashew butter give them a crave-worthy fudgy texture, while cocoa powder and chocolate chips infuse them with rich chocolate flavor.",
+        "image": "vegandatebrownies.png",
+        "ingredients": [
+          "Dates 🧆🍉",
+          "Cashew butter 🧀 ",
+          "Cocoa 🍯 ",
+          "Chocolate chips 🍫",
+          "Nuts 🌰 "
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Peach Crisp",
+        "shortDescription": "A mix of peaches and berries, or any combination of stone fruit.",
+        "longDescription": "Use whatever summer fruit you have on hand in this easy crisp recipe! The nutty, oat-y topping is delectable over peaches, a mix of peaches and berries, or any combination of stone fruit.",
+        "image": "peachcrisp.png",
+        "ingredients": [
+          "Peach 🍑 ",
+          "Berries 🫐",
+          "Nuts 🌰",
+          "Oats 🥣",
+          "Stone fruit 🥭"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Chocolate Cake",
+        "shortDescription": "It’s moist, fudgy, and topped with luscious chocolate frosting, but wholesome ingredients are hiding inside it. ",
+        "longDescription": "It’s moist, fudgy, and topped with luscious chocolate frosting, but wholesome ingredients are hiding inside it. I swap maple syrup for refined sugar and use a mix of white and whole wheat flour in the cake. Last but not least, I make the rich frosting with a secret veggie ingredient: sweet potato!",
+        "image": "chocolatecake.png",
+        "ingredients": [
+          "Wheat flour 🍶",
+          "Sweet potatoes 🥔",
+          "Chocolate 🍫",
+          "Maple syrup 🧃",
+          "Sugar 🧂"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Cinnamon Rolls",
+        "shortDescription": "They’re soft, gooey, and brimming with brown sugar and cinnamon.",
+        "longDescription": "Whether you call them breakfast or call them dessert, you have to try these cinnamon rolls! They’re soft, gooey, and brimming with brown sugar and cinnamon.",
+        "image": "cinnamonrolls.png",
+        "ingredients": [
+          "Brown sugar 🧂",
+          "Cinnamon 🍼",
+          "Flour 🍶",
+          "Water 🚰 ",
+          "Cardamom 🥣"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "ChocolateChip Zuccini Bread",
+        "shortDescription": "It’s moist, warmly spiced, and topped with a big sprinkle of chocolate chips.",
+        "longDescription": "I’d take a slice (or two) of this zucchini bread any day. It’s moist, warmly spiced, and topped with a big sprinkle of chocolate chips. What’s not to love?",
+        "image": "zuccinibread.png",
+        "ingredients": [
+          "Flour 🍶",
+          "Zucchini 🥒 ",
+          "Chocolate chips 🍫",
+          "Sugar 🧂",
+          "Water 🚰 "
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Drinks",
+    "image": "chailatte.png",
+    "description": "Looking for the best vegan latte? Want to make a dairy-free cocktail? See our vegan drink ideas, complete with everything from chai lattes to black russians and more.These tasty cocktails, will make your summer get-togethers unforgettable! ",
+    "products": [
+      {
+        "id": 0,
+        "name": "Vegan Hot Chocolate",
+        "shortDescription": "The hot chocolate is silky, sweet and topped with whipped plant-based cream ",
+        "longDescription": "This dairy-free hot chocolate is silky, sweet and topped with whipped plant-based cream – use oat or almond milk alternatives in this warming drink.",
+        "image": "veganhotchocolate.png",
+        "ingredients": [
+          "Chocolate",
+          "Oats",
+          "Plant-based cream",
+          "Almond milk",
+          "Cardamom"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Vegan Black Russain",
+        "shortDescription": "Rich and creamy with a date syrup tang",
+        "longDescription": "Rich and creamy with a date syrup tang, this vegan black russian is the ultimate Christmas cocktail that everyone will enjoy. This recipe comes from east London's Bubala restaurant.",
+        "image": "veganblackrussain.png",
+        "ingredients": ["Date syrup", "Raisins", "Cinnamon", "Cocoa", "Almonds"]
+      },
+      {
+        "id": 2,
+        "name": "Strawberry Lemonade",
+        "shortDescription": "Lemonade made with fresh strawberries is fancy enough for a party ",
+        "longDescription": "Lemonade made with fresh strawberries is fancy enough for a party and refreshing enough to satisfy when you’re craving something different",
+        "image": "strawberrylemonade.png",
+        "ingredients": ["Strawberry", "lemon", "Sugar", "Cardamom", "Water"]
+      },
+      {
+        "id": 3,
+        "name": "Turmeric Latte",
+        "shortDescription": " Get more of the spice into your diet by whipping up this golden latte at home",
+        "longDescription": "Turmeric is thought to have a host of health benefits, including anti-inflammatory and antioxidant properties – get more of the spice into your diet by whipping up this golden latte at home.",
+        "image": "turmericlatte.png",
+        "ingredients": ["Turmeric", "Coffee", "Cinnamon", "Mint", "Ginger"]
+      },
+      {
+        "id": 4,
+        "name": "Watermelon Peach Smoothie",
+        "shortDescription": "A smoothie with fresh summer fruits like peach and watermelon",
+        "longDescription": "A smoothie made with refrigerated coconut milk stays on the lighter side with fresh summer fruits like peach and watermelon. You won’t even need to add sugar!",
+        "image": "watermelon.png",
+        "ingredients": [
+          "Watermelon",
+          "Peach",
+          "Coconut milk",
+          "Cardamom",
+          "Cloves"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Vegan Eggnog",
+        "shortDescription": "We've used almond milk and coconut cream to make it vegan!",
+        "longDescription": "This is an easy all-in-one method for eggnog that’s perfect for parties. We've used almond milk and coconut cream to make it vegan!.",
+        "image": "veganeggnog.png",
+        "ingredients": [
+          "Coconut milk",
+          "Almond milk",
+          "Cardamom",
+          "Water",
+          "Cloves"
+        ]
+      }
+    ]
+  }
+]
