@@ -8,7 +8,7 @@
 }
 
 .social_media {
-  margin-top: 10px;
+  margin-top: var(--space-small);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -16,7 +16,7 @@
 
 .social_media a {
   display: inline-block;
-  margin-right: 15px;
+  margin-right: var(--space-medium);
 }
 .footer_image {
   width: 30px;
@@ -24,7 +24,7 @@
 }
 
 .copy_right {
-  margin-top: 10px;
+  margin-top: var(--space-small);
   text-align: center;
 }
 
