@@ -1,7 +1,13 @@
-.nutrition_facts {
+.nutrition_table {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
+}
+
+table,
+tr,
+td {
+  border: 1px solid;
 }

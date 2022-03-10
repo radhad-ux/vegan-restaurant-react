@@ -17,6 +17,17 @@
           "Walnuts 🧅",
           "Basil 🍃",
           "Brocolli 🥦"
+        ],
+        "nutrition": [
+          { "id": 0, "name": "Calories", "value": 200 },
+          { "id": 1, "name": "Total fat", "value": 10 },
+          { "id": 2, "name": "Saturated fat", "value": 3 },
+          { "id": 3, "name": "Cholestrol", "value": 10 },
+          { "id": 4, "name": "Sodium", "value": 8 },
+          { "id": 5, "name": "Total Carbohydrates", "value": 4 },
+          { "id": 6, "name": "Dietary Fibre", "value": 8 },
+          { "id": 7, "name": "Sugar", "value": 4 },
+          { "id": 8, "name": "Protein", "value": 2 }
         ]
       },
       {
@@ -31,6 +42,17 @@
           "Tofu 🥦",
           "Coriander 🍀",
           "Tikka masala 🧉"
+        ],
+        "nutrition": [
+          { "id": 0, "name": "Calories", "value": 200 },
+          { "id": 1, "name": "Total fat", "value": 10 },
+          { "id": 2, "name": "Saturated fat", "value": 3 },
+          { "id": 3, "name": "Cholestrol", "value": 10 },
+          { "id": 4, "name": "Sodium", "value": 8 },
+          { "id": 5, "name": "Total Carbohydrates", "value": 4 },
+          { "id": 6, "name": "Dietary Fibre", "value": 8 },
+          { "id": 7, "name": "Sugar", "value": 4 },
+          { "id": 8, "name": "Protein", "value": 25 }
         ]
       },
       {
@@ -45,6 +67,17 @@
           "Cocunut 🥥",
           "Chillies 🌶️",
           "Shallots 🧅"
+        ],
+        "nutrition": [
+          { "id": 0, "name": "calories", "value": 300 },
+          { "id": 1, "name": "Total fat", "value": 10 },
+          { "id": 2, "name": "Saturated fat", "value": 3 },
+          { "id": 3, "name": "Cholestrol", "value": 10 },
+          { "id": 4, "name": "Sodium", "value": 8 },
+          { "id": 5, "name": "Total Carbohydrates", "value": 4 },
+          { "id": 6, "name": "Dietary Fibre", "value": 8 },
+          { "id": 7, "name": "Sugar", "value": 4 },
+          { "id": 8, "name": "Protein", "value": 25 }
         ]
       },
       {
@@ -59,6 +92,17 @@
           "Paneer 🍞",
           "Greenpeas 🥒 ",
           "Capscicum 🫑"
+        ],
+        "nutrition": [
+          { "id": 0, "name": "calories", "value": 300 },
+          { "id": 1, "name": "Total fat", "value": 10 },
+          { "id": 2, "name": "Saturated fat", "value": 3 },
+          { "id": 3, "name": "Cholestrol", "value": 10 },
+          { "id": 4, "name": "Sodium", "value": 8 },
+          { "id": 5, "name": "Total Carbohydrates", "value": 4 },
+          { "id": 6, "name": "Dietary Fibre", "value": 8 },
+          { "id": 7, "name": "Sugar", "value": 4 },
+          { "id": 8, "name": "Protein", "value": 25 }
         ]
       },
       {
@@ -73,6 +117,17 @@
           "Tofu 🥦",
           "Bok Choy 🌱🪴",
           "Scallions 🪴"
+        ],
+        "nutrition": [
+          { "id": 0, "name": "calories", "value": 300 },
+          { "id": 1, "name": "Total fat", "value": 10 },
+          { "id": 2, "name": "Saturated fat", "value": 3 },
+          { "id": 3, "name": "Cholestrol", "value": 10 },
+          { "id": 4, "name": "Sodium", "value": 8 },
+          { "id": 5, "name": "Total Carbohydrates", "value": 4 },
+          { "id": 6, "name": "Dietary Fibre", "value": 8 },
+          { "id": 7, "name": "Sugar", "value": 4 },
+          { "id": 8, "name": "Protein", "value": 25 }
         ]
       },
       {
@@ -87,6 +142,17 @@
           "tofu 🥦",
           "Cabbage 🥬",
           "Peanut sauce 🥜"
+        ],
+        "nutrition": [
+          { "id": 0, "name": "calories", "value": 300 },
+          { "id": 1, "name": "Total fat", "value": 10 },
+          { "id": 2, "name": "Saturated fat", "value": 3 },
+          { "id": 3, "name": "Cholestrol", "value": 10 },
+          { "id": 4, "name": "Sodium", "value": 8 },
+          { "id": 5, "name": "Total Carbohydrates", "value": 4 },
+          { "id": 6, "name": "Dietary Fibre", "value": 8 },
+          { "id": 7, "name": "Sugar", "value": 4 },
+          { "id": 8, "name": "Protein", "value": 25 }
         ]
       }
     ]
@@ -109,6 +175,17 @@
           "Nuts 🥜",
           "Fruits 🍑",
           "Cinnamon 🍼"
+        ],
+        "nutrition": [
+          { "id": 0, "name": "calories", "value": 300 },
+          { "id": 1, "name": "Total fat", "value": 10 },
+          { "id": 2, "name": "Saturated fat", "value": 3 },
+          { "id": 3, "name": "Cholestrol", "value": 10 },
+          { "id": 4, "name": "Sodium", "value": 8 },
+          { "id": 5, "name": "Total Carbohydrates", "value": 4 },
+          { "id": 6, "name": "Dietary Fibre", "value": 8 },
+          { "id": 7, "name": "Sugar", "value": 4 },
+          { "id": 8, "name": "Protein", "value": 25 }
         ]
       },
       {
@@ -123,6 +200,17 @@
           "Cocoa 🍯 ",
           "Chocolate chips 🍫",
           "Nuts 🌰 "
+        ],
+        "nutrition": [
+          { "id": 0, "name": "calories", "value": 300 },
+          { "id": 1, "name": "Total fat", "value": 10 },
+          { "id": 2, "name": "Saturated fat", "value": 3 },
+          { "id": 3, "name": "Cholestrol", "value": 10 },
+          { "id": 4, "name": "Sodium", "value": 8 },
+          { "id": 5, "name": "Total Carbohydrates", "value": 4 },
+          { "id": 6, "name": "Dietary Fibre", "value": 8 },
+          { "id": 7, "name": "Sugar", "value": 4 },
+          { "id": 8, "name": "Protein", "value": 25 }
         ]
       },
       {
@@ -137,6 +225,17 @@
           "Nuts 🌰",
           "Oats 🥣",
           "Stone fruit 🥭"
+        ],
+        "nutrition": [
+          { "id": 0, "name": "calories", "value": 300 },
+          { "id": 1, "name": "Total fat", "value": 10 },
+          { "id": 2, "name": "Saturated fat", "value": 3 },
+          { "id": 3, "name": "Cholestrol", "value": 10 },
+          { "id": 4, "name": "Sodium", "value": 8 },
+          { "id": 5, "name": "Total Carbohydrates", "value": 4 },
+          { "id": 6, "name": "Dietary Fibre", "value": 8 },
+          { "id": 7, "name": "Sugar", "value": 4 },
+          { "id": 8, "name": "Protein", "value": 25 }
         ]
       },
       {
@@ -151,6 +250,17 @@
           "Chocolate 🍫",
           "Maple syrup 🧃",
           "Sugar 🧂"
+        ],
+        "nutrition": [
+          { "id": 0, "name": "calories", "value": 300 },
+          { "id": 1, "name": "Total fat", "value": 10 },
+          { "id": 2, "name": "Saturated fat", "value": 3 },
+          { "id": 3, "name": "Cholestrol", "value": 10 },
+          { "id": 4, "name": "Sodium", "value": 8 },
+          { "id": 5, "name": "Total Carbohydrates", "value": 4 },
+          { "id": 6, "name": "Dietary Fibre", "value": 8 },
+          { "id": 7, "name": "Sugar", "value": 4 },
+          { "id": 8, "name": "Protein", "value": 25 }
         ]
       },
       {
@@ -165,6 +275,17 @@
           "Flour 🍶",
           "Water 🚰 ",
           "Cardamom 🥣"
+        ],
+        "nutrition": [
+          { "id": 0, "name": "calories", "value": 300 },
+          { "id": 1, "name": "Total fat", "value": 10 },
+          { "id": 2, "name": "Saturated fat", "value": 3 },
+          { "id": 3, "name": "Cholestrol", "value": 10 },
+          { "id": 4, "name": "Sodium", "value": 8 },
+          { "id": 5, "name": "Total Carbohydrates", "value": 4 },
+          { "id": 6, "name": "Dietary Fibre", "value": 8 },
+          { "id": 7, "name": "Sugar", "value": 4 },
+          { "id": 8, "name": "Protein", "value": 25 }
         ]
       },
       {
@@ -179,6 +300,17 @@
           "Chocolate chips 🍫",
           "Sugar 🧂",
           "Water 🚰 "
+        ],
+        "nutrition": [
+          { "id": 0, "name": "calories", "value": 300 },
+          { "id": 1, "name": "Total fat", "value": 10 },
+          { "id": 2, "name": "Saturated fat", "value": 3 },
+          { "id": 3, "name": "Cholestrol", "value": 10 },
+          { "id": 4, "name": "Sodium", "value": 8 },
+          { "id": 5, "name": "Total Carbohydrates", "value": 4 },
+          { "id": 6, "name": "Dietary Fibre", "value": 8 },
+          { "id": 7, "name": "Sugar", "value": 4 },
+          { "id": 8, "name": "Protein", "value": 25 }
         ]
       }
     ]
@@ -201,6 +333,17 @@
           "Plant-based cream",
           "Almond milk",
           "Cardamom"
+        ],
+        "nutrition": [
+          { "id": 0, "name": "calories", "value": 300 },
+          { "id": 1, "name": "Total fat", "value": 10 },
+          { "id": 2, "name": "Saturated fat", "value": 3 },
+          { "id": 3, "name": "Cholestrol", "value": 10 },
+          { "id": 4, "name": "Sodium", "value": 8 },
+          { "id": 5, "name": "Total Carbohydrates", "value": 4 },
+          { "id": 6, "name": "Dietary Fibre", "value": 8 },
+          { "id": 7, "name": "Sugar", "value": 4 },
+          { "id": 8, "name": "Protein", "value": 25 }
         ]
       },
       {
@@ -209,7 +352,24 @@
         "shortDescription": "Rich and creamy with a date syrup tang",
         "longDescription": "Rich and creamy with a date syrup tang, this vegan black russian is the ultimate Christmas cocktail that everyone will enjoy. This recipe comes from east London's Bubala restaurant.",
         "image": "veganblackrussain.png",
-        "ingredients": ["Date syrup", "Raisins", "Cinnamon", "Cocoa", "Almonds"]
+        "ingredients": [
+          "Date syrup",
+          "Raisins",
+          "Cinnamon",
+          "Cocoa",
+          "Almonds"
+        ],
+        "nutrition": [
+          { "id": 0, "name": "calories", "value": 300 },
+          { "id": 1, "name": "Total fat", "value": 10 },
+          { "id": 2, "name": "Saturated fat", "value": 3 },
+          { "id": 3, "name": "Cholestrol", "value": 10 },
+          { "id": 4, "name": "Sodium", "value": 8 },
+          { "id": 5, "name": "Total Carbohydrates", "value": 4 },
+          { "id": 6, "name": "Dietary Fibre", "value": 8 },
+          { "id": 7, "name": "Sugar", "value": 4 },
+          { "id": 8, "name": "Protein", "value": 25 }
+        ]
       },
       {
         "id": 2,
@@ -217,7 +377,18 @@
         "shortDescription": "Lemonade made with fresh strawberries is fancy enough for a party ",
         "longDescription": "Lemonade made with fresh strawberries is fancy enough for a party and refreshing enough to satisfy when you’re craving something different",
         "image": "strawberrylemonade.png",
-        "ingredients": ["Strawberry", "lemon", "Sugar", "Cardamom", "Water"]
+        "ingredients": ["Strawberry", "lemon", "Sugar", "Cardamom", "Water"],
+        "nutrition": [
+          { "id": 0, "name": "calories", "value": 300 },
+          { "id": 1, "name": "Total fat", "value": 10 },
+          { "id": 2, "name": "Saturated fat", "value": 3 },
+          { "id": 3, "name": "Cholestrol", "value": 10 },
+          { "id": 4, "name": "Sodium", "value": 8 },
+          { "id": 5, "name": "Total Carbohydrates", "value": 4 },
+          { "id": 6, "name": "Dietary Fibre", "value": 8 },
+          { "id": 7, "name": "Sugar", "value": 4 },
+          { "id": 8, "name": "Protein", "value": 25 }
+        ]
       },
       {
         "id": 3,
@@ -225,7 +396,18 @@
         "shortDescription": " Get more of the spice into your diet by whipping up this golden latte at home",
         "longDescription": "Turmeric is thought to have a host of health benefits, including anti-inflammatory and antioxidant properties – get more of the spice into your diet by whipping up this golden latte at home.",
         "image": "turmericlatte.png",
-        "ingredients": ["Turmeric", "Coffee", "Cinnamon", "Mint", "Ginger"]
+        "ingredients": ["Turmeric", "Coffee", "Cinnamon", "Mint", "Ginger"],
+        "nutrition": [
+          { "id": 0, "name": "calories", "value": 300 },
+          { "id": 1, "name": "Total fat", "value": 10 },
+          { "id": 2, "name": "Saturated fat", "value": 3 },
+          { "id": 3, "name": "Cholestrol", "value": 10 },
+          { "id": 4, "name": "Sodium", "value": 8 },
+          { "id": 5, "name": "Total Carbohydrates", "value": 4 },
+          { "id": 6, "name": "Dietary Fibre", "value": 8 },
+          { "id": 7, "name": "Sugar", "value": 4 },
+          { "id": 8, "name": "Protein", "value": 25 }
+        ]
       },
       {
         "id": 4,
@@ -239,6 +421,17 @@
           "Coconut milk",
           "Cardamom",
           "Cloves"
+        ],
+        "nutrition": [
+          { "id": 0, "name": "calories", "value": 300 },
+          { "id": 1, "name": "Total fat", "value": 10 },
+          { "id": 2, "name": "Saturated fat", "value": 3 },
+          { "id": 3, "name": "Cholestrol", "value": 10 },
+          { "id": 4, "name": "Sodium", "value": 8 },
+          { "id": 5, "name": "Total Carbohydrates", "value": 4 },
+          { "id": 6, "name": "Dietary Fibre", "value": 8 },
+          { "id": 7, "name": "Sugar", "value": 4 },
+          { "id": 8, "name": "Protein", "value": 25 }
         ]
       },
       {
@@ -253,6 +446,17 @@
           "Cardamom",
           "Water",
           "Cloves"
+        ],
+        "nutrition": [
+          { "id": 0, "name": "calories", "value": 300 },
+          { "id": 1, "name": "Total fat", "value": 10 },
+          { "id": 2, "name": "Saturated fat", "value": 3 },
+          { "id": 3, "name": "Cholestrol", "value": 10 },
+          { "id": 4, "name": "Sodium", "value": 8 },
+          { "id": 5, "name": "Total Carbohydrates", "value": 4 },
+          { "id": 6, "name": "Dietary Fibre", "value": 8 },
+          { "id": 7, "name": "Sugar", "value": 4 },
+          { "id": 8, "name": "Protein", "value": 25 }
         ]
       }
     ]

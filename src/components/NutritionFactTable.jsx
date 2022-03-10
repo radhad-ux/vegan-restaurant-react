@@ -1,18 +1,35 @@
-export default function NutritionFactTable({ product }) {
+export default function NutritionFactTable({ productDetail }) {
+  const NutritionData = productDetail.nutrition.map((data) => (
+    <tr key={data.id} data={data}>
+      <td>{data.name}</td>
+      <td>{data.value}g</td>
+    </tr>
+  ));
+
   return (
-    <section className="nutrition_facts">
-      <div className="facts_header">
-        <h2 className="facts_title">Nutrition Facts</h2>
-        <p>Serving Size 1/2 cup (about 82g)</p>
-        <p>Serving Per Container 8</p>
-      </div>
-      <table class="facts__table">
-        <thead>
+    <div className="nutrition_table">
+      <h3>Nutrition Facts</h3>
+      <table className="facts_table">
+        <tbody>
           <tr>
-            <th className="small_info">Amount Per Serving</th>
+            <td>Serving Size 1/2 cup </td>
+            <td>Approx. 82g</td>
           </tr>
-        </thead>
+          <tr>
+            <td>Serving per Container </td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td className="info">Amount Per Serving</td>
+            <td>Grams</td>
+          </tr>
+          <tr className="table_heading">
+            <td>Nutrients</td>
+            <td>Value</td>
+          </tr>
+          {NutritionData}
+        </tbody>
       </table>
-    </section>
+    </div>
   );
 }

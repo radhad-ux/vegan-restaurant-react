@@ -5,7 +5,9 @@
 
 /* components */
 @import "./components/categorycard.css";
+@import "./components/contactinfo.css";
 @import "./components/footer.css";
+@import "./components/forminput.css";
 @import "./components/homemenucard.css";
 @import "./components/ingredients.css";
 @import "./components/navbar.css";
@@ -14,5 +16,6 @@
 
 /* pages */
 @import "./pages/category.css";
+@import "./pages/contact.css";
 @import "./pages/home.css";
 @import "./pages/product.css";
