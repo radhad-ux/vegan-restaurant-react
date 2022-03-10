@@ -1,0 +1,49 @@
+.contact_page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#chef {
+  display: flex;
+  margin-top: 100px;
+}
+
+.contact_page h2 {
+  color: var(--color-primary);
+  font-size: 24px;
+  text-align: center;
+  font-family: "laila", sans-serif;
+  font-weight: 700;
+  text-decoration: underline;
+  margin: 0;
+}
+.address_info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: var(--color-primary);
+  font-family: "Satisfy", sans-serif;
+}
+.address_info p {
+  margin-bottom: 0;
+}
+
+.address_info .map {
+  display: flex;
+  margin: var(--space-medium);
+}
+
+@media screen and (max-width: 600px) {
+  #chef {
+    display: flex;
+    width: 300px;
+    height: auto;
+  }
+  .address_info .map {
+    width: 300px;
+    height: auto;
+  }
+}
