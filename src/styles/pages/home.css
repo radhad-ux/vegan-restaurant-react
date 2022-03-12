@@ -4,6 +4,7 @@
   justify-content: center;
   align-items: center;
   width: 100%;
+  background-color: var(--color-bg);
 }
 .hero_section {
   display: flex;
@@ -50,7 +51,8 @@
 }
 .home_list {
   display: flex;
-  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
   flex-wrap: wrap;
 }
 

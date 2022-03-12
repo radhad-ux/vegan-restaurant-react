@@ -115,7 +115,7 @@
           "Ramen 🍜",
           "Mushroom 🍄",
           "Tofu 🥦",
-          "Bok Choy 🌱🪴",
+          "Bok Choy 🌱",
           "Scallions 🪴"
         ],
         "nutrition": [
@@ -195,7 +195,7 @@
         "longDescription": "These vegan brownies will give any regular brownie recipe a run for its money. Medjool dates and cashew butter give them a crave-worthy fudgy texture, while cocoa powder and chocolate chips infuse them with rich chocolate flavor.",
         "image": "vegandatebrownies.png",
         "ingredients": [
-          "Dates 🧆🍉",
+          "Dates 🧆",
           "Cashew butter 🧀 ",
           "Cocoa 🍯 ",
           "Chocolate chips 🍫",
@@ -328,11 +328,11 @@
         "longDescription": "This dairy-free hot chocolate is silky, sweet and topped with whipped plant-based cream – use oat or almond milk alternatives in this warming drink.",
         "image": "veganhotchocolate.png",
         "ingredients": [
-          "Chocolate",
-          "Oats",
-          "Plant-based cream",
-          "Almond milk",
-          "Cardamom"
+          "Chocolate 🍫",
+          "Oats 🥣",
+          "Plant-based cream 🪴",
+          "Almond milk 🥛",
+          "Cardamom 🍂"
         ],
         "nutrition": [
           { "id": 0, "name": "calories", "value": 300 },
@@ -353,11 +353,11 @@
         "longDescription": "Rich and creamy with a date syrup tang, this vegan black russian is the ultimate Christmas cocktail that everyone will enjoy. This recipe comes from east London's Bubala restaurant.",
         "image": "veganblackrussain.png",
         "ingredients": [
-          "Date syrup",
-          "Raisins",
-          "Cinnamon",
-          "Cocoa",
-          "Almonds"
+          "Date syrup 🧆 ",
+          "Raisins 🍂 ",
+          "Cinnamon 🍼",
+          "Cocoa 🍫",
+          "Almonds 🌰"
         ],
         "nutrition": [
           { "id": 0, "name": "calories", "value": 300 },
@@ -377,7 +377,13 @@
         "shortDescription": "Lemonade made with fresh strawberries is fancy enough for a party ",
         "longDescription": "Lemonade made with fresh strawberries is fancy enough for a party and refreshing enough to satisfy when you’re craving something different",
         "image": "strawberrylemonade.png",
-        "ingredients": ["Strawberry", "lemon", "Sugar", "Cardamom", "Water"],
+        "ingredients": [
+          "Strawberry 🍓",
+          "lemon 🍋",
+          "Sugar 🧂",
+          "Cardamom 🍂",
+          "Water🚰"
+        ],
         "nutrition": [
           { "id": 0, "name": "calories", "value": 300 },
           { "id": 1, "name": "Total fat", "value": 10 },
@@ -396,7 +402,13 @@
         "shortDescription": " Get more of the spice into your diet by whipping up this golden latte at home",
         "longDescription": "Turmeric is thought to have a host of health benefits, including anti-inflammatory and antioxidant properties – get more of the spice into your diet by whipping up this golden latte at home.",
         "image": "turmericlatte.png",
-        "ingredients": ["Turmeric", "Coffee", "Cinnamon", "Mint", "Ginger"],
+        "ingredients": [
+          "Turmeric 🍂",
+          "Coffee ☕",
+          "Cinnamon 🍼",
+          "Mint 🌿",
+          "Ginger 🥜"
+        ],
         "nutrition": [
           { "id": 0, "name": "calories", "value": 300 },
           { "id": 1, "name": "Total fat", "value": 10 },
@@ -416,11 +428,11 @@
         "longDescription": "A smoothie made with refrigerated coconut milk stays on the lighter side with fresh summer fruits like peach and watermelon. You won’t even need to add sugar!",
         "image": "watermelon.png",
         "ingredients": [
-          "Watermelon",
-          "Peach",
-          "Coconut milk",
-          "Cardamom",
-          "Cloves"
+          "Watermelon 🍉",
+          "Peach 🍑",
+          "Coconut milk 🥥",
+          "Cardamom 🍂",
+          "Cloves 🌱"
         ],
         "nutrition": [
           { "id": 0, "name": "calories", "value": 300 },
@@ -441,11 +453,11 @@
         "longDescription": "This is an easy all-in-one method for eggnog that’s perfect for parties. We've used almond milk and coconut cream to make it vegan!.",
         "image": "veganeggnog.png",
         "ingredients": [
-          "Coconut milk",
-          "Almond milk",
-          "Cardamom",
-          "Water",
-          "Cloves"
+          "Coconut milk 🥥 ",
+          "Almond milk 🌰 ",
+          "Cardamom 🍂 ",
+          "Water 🚰 ",
+          "Cloves 🌱"
         ],
         "nutrition": [
           { "id": 0, "name": "calories", "value": 300 },

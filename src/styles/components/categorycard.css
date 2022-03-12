@@ -5,23 +5,23 @@
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   transition: 0.3s;
   margin: var(--space-big);
-  border: 2px solid green;
   justify-content: center;
   justify-items: center;
   align-items: center;
 }
 .card_left {
   flex-basis: 40%;
-  border: 2px solid green;
+
   height: 300px;
+  justify-content: left;
 }
 .card_right {
   flex-basis: 60%;
   margin: 0px 50px;
-  border: 2px solid cyan;
 }
 .card_left img {
   border-radius: 10px;
+  height: 300px;
 }
 
 .card_right h2 {

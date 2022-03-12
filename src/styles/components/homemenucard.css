@@ -6,7 +6,8 @@
   justify-content: center;
   align-items: center;
   background-color: var(--color-bg);
-  border: 3px solid green;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
 }
 .menu_item:nth-child(even) {
   display: flex;
@@ -15,7 +16,6 @@
 
 .menu_left {
   flex: 1;
-  border: 2px solid blue;
 }
 .menu_left img {
   width: 100%;
@@ -28,7 +28,6 @@
   align-items: center;
   justify-items: center;
   text-align: center;
-  border: 2px solid yellow;
 }
 .menu_right h2 {
   color: #03384b;
@@ -42,8 +41,6 @@
   justify-content: center;
   text-align: left;
   margin: 0 50px;
-
-  border: 2px solid violet;
 }
 .menu_description p {
   color: #03384b;
