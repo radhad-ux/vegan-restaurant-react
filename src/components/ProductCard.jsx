@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function ProductCard({ productDetail }) {
   const { name, longDescription, image } = productDetail;
   const imageURL = require(`../assets/images/products/${image}`);

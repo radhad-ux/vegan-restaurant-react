@@ -1,14 +1,14 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 //Project files
 import NavBar from "./components/NavBar";
-import Home from "./pages/Home";
 import Footer from "./components/Footer";
 import Category from "./pages/Category";
 import Contact from "./pages/Contact";
+import Home from "./pages/Home";
 import Product from "./pages/Product";
 import "./styles/style.css";
 
-function App() {
+export default function App() {
   return (
     <Router>
       <NavBar />
@@ -22,5 +22,3 @@ function App() {
     </Router>
   );
 }
-
-export default App;
