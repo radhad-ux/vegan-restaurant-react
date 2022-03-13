@@ -21,6 +21,8 @@ tr {
   line-height: 1.5;
   border-bottom: 1px solid var(--color-primary);
   vertical-align: baseline;
+  font-family: "laila", sans-serif;
+  font-size: 14px;
 }
 .nutrition_table td {
   border: 2px solid var(--color-primary);
