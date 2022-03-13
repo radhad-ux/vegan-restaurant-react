@@ -1,8 +1,7 @@
-import React from "react";
 import CHEF from "../assets/chef.png";
 import ContactInfo from "../components/ContactInfo";
 import FormInput from "../components/FormInput";
-import Map from "../assets/mapnew.png";
+import Map from "../assets/map.png";
 
 export default function Contact() {
   return (

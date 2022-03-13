@@ -1,10 +1,9 @@
-import React from "react";
 import Hero from "../assets/home.jpg";
 import homemenu from "../data/homepagedata.json";
 import HomeMenuCard from "../components/HomeMenuCard";
 
 export default function Home() {
-  const CategoryList = homemenu.map((data) => (
+  const HomeMenusList = homemenu.map((data) => (
     <HomeMenuCard key={data.id} data={data} />
   ));
 
@@ -21,7 +20,7 @@ export default function Home() {
           <span>Eat beet, not meat!</span>
         </div>
       </div>
-      <div className="home_list">{CategoryList}</div>
+      <div className="home_list">{HomeMenusList}</div>
     </div>
   );
 }

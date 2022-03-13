@@ -1,8 +1,6 @@
 .home_page {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
   width: 100%;
   background-color: var(--color-bg);
 }
@@ -14,7 +12,6 @@
   margin: auto;
   justify-content: center;
   align-items: center;
-  align-content: center;
 }
 
 .hero_img {
@@ -26,15 +23,13 @@
   position: absolute;
   background-size: cover;
   background-position: center;
-  opacity: 0.6;
+  opacity: 0.4;
 }
 
 .hero_content {
   display: flex;
   position: relative;
-  align-items: center;
   text-align: center;
-  justify-content: center;
   flex-direction: column;
 }
 .hero_content h1 {
@@ -43,7 +38,7 @@
   font-family: "laila", sans-serif;
 }
 .hero_content span {
-  font-size: 30px;
+  font-size: 36px;
   color: var(--color-primary);
   font-weight: 800px;
   font-style: italic;
@@ -51,7 +46,7 @@
 }
 .home_list {
   display: flex;
-  max-width: 1200px;
+  max-width: 1800px;
   margin: 0 auto;
   flex-wrap: wrap;
 }

@@ -2,13 +2,13 @@
   {
     "id": 0,
     "title": "Dishes",
-    "description": "Rich and robust,  our plant-based dishes are hearty, “tasty” and with full depth of flavor.",
-    "image": "ratatouille.png"
+    "description": "Rich and robust,  our plant-based dishes are hearty, “tasty” and with full depth of flavor. Our vegan dishes includes all grains, beans, legumes, vegetables, fruits, and the nearly infinite number of foods made by combining them. ",
+    "image": "veg.jpg"
   },
   {
     "id": 1,
     "title": "Deserts",
-    "description": "A seductive tasting sensation created with passion by our skilled Artisans. We have a variety of deserts including Waffles,Brownies, Pasteries, Sundaes and Custard.",
+    "description": "A seductive tasting sensation created with passion by our skilled Artisans. Our vegan recipes include cupcakes, vegan cookies and other treats that are proof that you don’t need animal products to make a show stopping dessert.",
     "image": "taste.png"
   },
   {

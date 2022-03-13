@@ -2,7 +2,6 @@
   {
     "id": 0,
     "title": "Dishes",
-    "image": "roasted cauliflower.png",
     "description": "Whether you are simply trying to eat less meat, cook more plant-based meals, consume more vibrant healthy produce, or subscribe to the vegan lifestyle- my hope is that these Vegan Recipes help inspire you on your own health journey. Always remember, vegan food never has to be boring or bland! And remember, if it tastes delicious, no one will ever miss the meat! I promise! 😉",
     "products": [
       {
@@ -160,7 +159,6 @@
   {
     "id": 1,
     "title": "Desserts",
-    "image": "breadcake.png",
     "description": "Whether you're craving an indulgent cake, a refreshing sorbet, or anything in between, these vegan desserts are guaranteed to satisfy your sweet tooth.These vegan desserts are here to prove that you don’t need butter, eggs, or cream to create something that’s sweet, rich, and decadent. ",
     "products": [
       {

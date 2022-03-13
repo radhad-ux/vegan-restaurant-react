@@ -4,7 +4,7 @@ export default function Ingredients({ productDetail }) {
   ));
   return (
     <div className="ingredients_list">
-      <h2>Ingredients</h2>
+      <h3>Ingredients</h3>
       <ul className="ingredients_data">{ingredientsList}</ul>
     </div>
   );

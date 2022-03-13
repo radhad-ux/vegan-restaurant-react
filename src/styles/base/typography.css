@@ -13,6 +13,7 @@ h1 {
 h2 {
   font-size: 36px;
   line-height: 1.5;
+  font-family: "laila", sans-serif;
 }
 
 p {
@@ -23,4 +24,12 @@ p {
 h3 {
   font-size: 24px;
   line-height: 1.5;
+  font-family: "laila", sans-serif;
+  margin-bottom: 0;
+  color: var(--color-primary);
+}
+
+ul {
+  margin-top: 0;
+  margin-bottom: var(--space-big);
 }

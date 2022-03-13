@@ -1,15 +1,12 @@
-import React from "react";
-import categorydata from "../data/categorydata.json";
-import ProductCard from "../components/ProductCard";
+import { useParams, Link } from "react-router-dom";
 import Ingredients from "../components/Ingredients";
-import { useParams } from "react-router-dom";
 import NutritionFactTable from "../components/NutritionFactTable";
-import { Link } from "react-router-dom";
+import ProductCard from "../components/ProductCard";
+import categorydata from "../data/categorydata.json";
 
 export default function Product() {
   const { title } = useParams();
   const { id } = useParams();
-
   const { products } = categorydata.find((item) => item.title === title);
   const productDetail = products.find((item) => item.id === Number(id));
 

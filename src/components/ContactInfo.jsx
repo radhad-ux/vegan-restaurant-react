@@ -4,6 +4,7 @@ export default function ContactInfo() {
       <p>Opening Hours</p>
       <span>Mon - Fri: 8AM to 9PM </span>
       <span>Sat - Sun: 10AM to 9PM</span>
+      <span>T:+76 422 1662 </span>
     </div>
   );
 }

@@ -9,14 +9,11 @@
 
 .social_media {
   margin-top: var(--space-small);
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .social_media a {
   display: inline-block;
-  margin-right: var(--space-medium);
+  padding: 10px;
 }
 .footer_image {
   width: 30px;

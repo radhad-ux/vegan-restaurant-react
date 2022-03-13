@@ -3,3 +3,11 @@
   flex-direction: column;
   background-color: var(--color-bg);
 }
+
+.ingredients_list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
