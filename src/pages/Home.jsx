@@ -9,7 +9,9 @@ export default function Home() {
 
   return (
     <div className="home_page">
+      {/* semantics -1 this is the <header tag> */}
       <div className="hero_section">
+        {/* This can be a background image */}
         <img
           className="hero_img"
           src={Hero}
@@ -20,6 +22,7 @@ export default function Home() {
           <span>Eat beet, not meat!</span>
         </div>
       </div>
+      {/* this can be a section tag */}
       <div className="home_list">{HomeMenusList}</div>
     </div>
   );

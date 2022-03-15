@@ -2,6 +2,8 @@ import facebookURL from "../assets/images/footericons/facebook.png";
 import linkedinURL from "../assets/images/footericons/linkedin.png";
 import twitterURL from "../assets/images/footericons/twitter.png";
 
+// DRY -1
+// You can clearly refactor this by creating a contactItem component (no need to put it as a separatefile, create it here)
 export default function Footer() {
   return (
     <div className="footer_links">

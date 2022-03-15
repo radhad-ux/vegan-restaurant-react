@@ -4,6 +4,7 @@ export default function HomeMenuCard({ data }) {
   const { title, description, image } = data;
   const imageURL = require(`../assets/images/homepics/${image}`);
 
+  // Same tip as category card
   return (
     <div className="menu_item">
       <div className="menu_left">

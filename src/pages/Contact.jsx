@@ -3,6 +3,7 @@ import ContactInfo from "../components/ContactInfo";
 import FormInput from "../components/FormInput";
 import Map from "../assets/map.png";
 
+// good
 export default function Contact() {
   return (
     <div className="contact_page">

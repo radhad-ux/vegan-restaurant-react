@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
-import LOGO from "../assets/logo.png";
+import LOGO from "../assets/logo.png"; // naming -1 just call it Logo not LOGO
 
+// Naming -1, use NavigationBar instead of abreviations
 export default function NavBar() {
   return (
     <nav className="navbar_links">

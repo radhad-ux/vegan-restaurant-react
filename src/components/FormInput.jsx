@@ -25,6 +25,7 @@ export default function FormInput() {
       );
   };
 
+  // Dry, create a input element
   return (
     <form ref={formRef} onSubmit={handleSubmit} className="booking_form">
       <h3>Book a Table</h3>

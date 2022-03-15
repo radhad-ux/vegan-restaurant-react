@@ -13,8 +13,11 @@ export default function Product() {
   return (
     <div className="product_page">
       <ProductCard productDetail={productDetail} />
+      {/* Not going to lie, this can be putted here withouth an extra component because the Product.jsx is small enough */}
       <Ingredients productDetail={productDetail} />
+      {/* This one on the other hand makes sense as a separate element because the  table design should be more complex andfull of css classes */}
       <NutritionFactTable productDetail={productDetail} />
+      {/* Semantics, this is not a button -1 (i mean, dont use the button tag inside the link) */}
       <Link to={`/${title}`}>
         <button className="btn_primary">Go Back</button>
       </Link>

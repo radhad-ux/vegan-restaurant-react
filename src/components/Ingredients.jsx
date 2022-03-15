@@ -1,3 +1,4 @@
+// ok
 export default function Ingredients({ productDetail }) {
   const ingredientsList = productDetail.ingredients.map((data, index) => (
     <li key={index}>{data}</li>
